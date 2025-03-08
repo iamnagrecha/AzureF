@@ -1,1 +1,4 @@
+#compute services
 
+1) Azure VM- can chose os, pay/min model
+2) Batch- can work with multiple VMs at once
