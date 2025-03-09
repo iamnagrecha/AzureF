@@ -4,3 +4,6 @@
 2) Batch- can work with multiple VMs at once
 3)cloud services
 4) Functions
+
+containers- users app run in cloud in container.
+ACS(Azure container services) or AKS(Azure kubernetes services)
