@@ -7,3 +7,8 @@
 
 containers- users app run in cloud in container.
 ACS(Azure container services) or AKS(Azure kubernetes services)
+
+Databases
+- SQL-  relational db
+- Azure cosmos db- nosql, low latency & scables apps.
+- Redis cache
