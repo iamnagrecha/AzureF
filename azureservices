@@ -14,3 +14,4 @@ Databases
 - Redis cache
 
 #key vault- safeguards crytographic keys & secrets
+AZure active directory- cloud based identity management service.- provides security layer
