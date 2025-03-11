@@ -12,3 +12,5 @@ Databases
 - SQL-  relational db
 - Azure cosmos db- nosql, low latency & scables apps.
 - Redis cache
+
+#key vault- safeguards crytographic keys & secrets
