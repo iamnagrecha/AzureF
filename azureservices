@@ -15,3 +15,7 @@ Databases
 
 #key vault- safeguards crytographic keys & secrets
 AZure active directory- cloud based identity management service.- provides security layer
+
+Azure advisor
+
+#Network Watcher- can help investigate VPN connectivity issues
