@@ -3,3 +3,8 @@ CDN- Content delivery network- low load times, high responsiveness
 Azure DNS - host domain in azure
 Azure VNET- allows user to setup private cloud
 Load balancer- delivers users with high availability & network performance.
+
+#storage
+-StorSimple- hybrid cloud storage
+-data lake store- for big data analytics
+-Blob storage- massive amout of unstructured data
