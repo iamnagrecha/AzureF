@@ -9,3 +9,5 @@ Load balancer- delivers users with high availability & network performance.
 -data lake store- for big data analytics
 -Blob storage- massive amout of unstructured data
 -queue storage- provides durable queues for large volume cloud services.
+-File storage- 
+Table storage- 
