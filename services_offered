@@ -10,4 +10,4 @@ Load balancer- delivers users with high availability & network performance.
 -Blob storage- massive amout of unstructured data
 -queue storage- provides durable queues for large volume cloud services.
 -File storage- simple cloud file share
-Table storage- 
+Table storage- nosql key-value storage. flexible data schema & highly available.
