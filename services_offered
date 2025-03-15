@@ -11,3 +11,7 @@ Load balancer- delivers users with high availability & network performance.
 -queue storage- provides durable queues for large volume cloud services.
 -File storage- simple cloud file share
 Table storage- nosql key-value storage. flexible data schema & highly available.
+
+#azure capabilities
+-> PAAS- platform as a service- infra, managed by microsoft
+-
