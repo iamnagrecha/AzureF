@@ -1,3 +1,7 @@
-AAD- azure active directory
+#AAD- azure active directory
 
-to handle multiple user logins
+to handle multiple user logins for diff services
+
+Windows AD vs Azure AD
+
+Windows AD has 5 layers
