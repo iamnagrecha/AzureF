@@ -5,3 +5,10 @@ to handle multiple user logins for diff services
 Windows AD vs Azure AD
 
 Windows AD has 5 layers
+AAD combines all layers into 2
+
+# Azure data factory
+
+->stores data
+->ANalyzes data
+-> publishes data
