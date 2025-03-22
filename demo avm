@@ -2,3 +2,7 @@
 
 Azure Virtual network
 represents env o run VMs and apps in cloud
+
+components
+-subnets- to segment vn into 2 or more sub networks
+- network security grps
