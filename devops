@@ -21,3 +21,7 @@ Agile approach
 
 Azure DevOps
 ->Repos
+
+-Tags
+
+Pipelines- env- is used to deploy your app.
