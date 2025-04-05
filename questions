@@ -5,3 +5,4 @@ iaas-azure VM, VNET
 instance types- general, compute, memory, storage,GPU, igh performance compute
 
 Azure resource manager(ARM)- helps to manage & monitor resources
+storage- blob, file, table, queue
